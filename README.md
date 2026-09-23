@@ -37,6 +37,7 @@ Python Bash
 
 I believe cybersecurity is best learned by doing.
 
+
 Currently working on:
 
 🧪 SOC & Blue Team labs
@@ -64,6 +65,6 @@ Build strong practical skills in SOC operations, threat detection, and incident 
 
 CompTIA Security+ (SY0-701) — In Progress
 
-🔗 Connect With Me
 
-LinkedIn
+
+
