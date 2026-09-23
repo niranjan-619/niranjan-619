@@ -1,70 +1,91 @@
-Hi, I'm Niranjan 👋
+<h1 align="center">Hi, I'm Niranjan 👋</h1>
 
-Cybersecurity Graduate • SOC & Blue Team • Threat Detection • Incident Response
+<p align="center">
+  <i>Cybersecurity Graduate • SOC & Blue Team • Threat Detection • Incident Response</i>
+</p>
 
-🧑‍💻 About Me
+---
 
-I'm a Cybersecurity graduate interested in understanding how attacks happen, how systems are affected, and—most importantly—how they can be detected, investigated, and prevented.
+## 🧑‍💻 About Me
 
-My current focus is SOC and Blue Team operations, where I'm building practical skills through hands-on labs, security projects, and continuous experimentation.
+I'm a **Cybersecurity graduate** interested in understanding how attacks happen, how systems are affected, and—most importantly—how they can be detected, investigated, and prevented.
 
-I enjoy digging into network traffic, logs, suspicious activity, vulnerabilities, and attack techniques to understand what happened and how defenders can respond.
+My current focus is **SOC and Blue Team operations**, where I'm building practical skills through hands-on labs, security projects, and continuous experimentation.
 
-🛡️ Cybersecurity Focus
-SOC & Blue Team Operations
-Threat Detection & Analysis
-Incident Response
-Network Security
-Security Monitoring & Log Analysis
-Linux & Windows Security
-Vulnerability Assessment
-Security Automation with Python
-🔧 Tools & Technologies
+I enjoy digging into **network traffic, logs, suspicious activity, vulnerabilities, and attack techniques** to understand what happened and how defenders can respond.
 
-Security & Networking
+---
 
-Wireshark Nmap Splunk MITRE ATT&CK
+## 🛡️ Cybersecurity Focus
 
-Operating Systems
+- SOC & Blue Team Operations
+- Threat Detection & Analysis
+- Incident Response
+- Network Security
+- Security Monitoring & Log Analysis
+- Linux & Windows Security
+- Vulnerability Assessment
+- Python & Security Automation
 
-Linux Windows
+---
 
-Programming & Automation
+## 🔧 Tools & Technologies
 
-Python Bash
+### Security & Networking
 
-🔬 Hands-On Learning
+`Wireshark` `Nmap` `Splunk` `MITRE ATT&CK`
 
-I believe cybersecurity is best learned by doing.
+### Operating Systems
 
+`Linux` `Windows`
+
+### Programming & Automation
+
+`Python` `Bash`
+
+---
+
+## 🔬 Hands-On Learning
+
+I believe cybersecurity is best learned by **doing**.
 
 Currently working on:
 
-🧪 SOC & Blue Team labs
-🔎 Threat detection and log analysis
-🌐 Network security investigations
-🐧 Linux & Windows security
-🛠️ Security-focused Python projects
-📚 CompTIA Security+ preparation
-📝 Documenting my labs, projects, and investigations
-📂 What You'll Find Here
+- 🧪 SOC & Blue Team labs
+- 🔎 Threat detection and log analysis
+- 🌐 Network security investigations
+- 🐧 Linux & Windows security
+- 🛠️ Security-focused Python projects
+- 📚 CompTIA Security+ preparation
+- 📝 Documenting my labs, projects, and investigations
+
+---
+
+## 📂 What You'll Find Here
 
 This GitHub is where I document my cybersecurity journey through:
 
-Security projects
-Detection & investigation labs
-Networking experiments
-Scripts and automation
-CTF / security challenges
-Research and technical notes
-🎯 Current Goal
+- Security projects
+- Detection & investigation labs
+- Networking experiments
+- Scripts and automation
+- CTF / security challenges
+- Research and technical notes
 
-Build strong practical skills in SOC operations, threat detection, and incident response and become someone who can confidently understand what happened during a security incident and what to do next.
+---
 
-📜 Certifications
+## 🎯 Current Goal
 
-CompTIA Security+ (SY0-701) — In Progress
+Build strong practical skills in **SOC operations, threat detection, and incident response** and become someone who can confidently understand **what happened during a security incident and what to do next.**
 
+---
 
+## 📜 Certifications
 
+**CompTIA Security+ (SY0-701)** — In Progress
 
+---
+
+## 🔗 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_URL)
