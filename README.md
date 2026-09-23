@@ -86,6 +86,3 @@ Build strong practical skills in **SOC operations, threat detection, and inciden
 
 ---
 
-## 🔗 Connect With Me
-
-[LinkedIn](YOUR_LINKEDIN_URL)
